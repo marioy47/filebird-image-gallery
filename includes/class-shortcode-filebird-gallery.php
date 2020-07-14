@@ -73,7 +73,7 @@ class Shortcode_Filebird_Gallery {
 				},
 				'<br />'
 			);
-			return __( 'You have to provider the "slug" parammeter. some options are: ', 'fb-image-gal' ) . $help;
+			return __( 'You have to provide the "slug" parammeter. Some options are: ', 'fb-image-gal' ) . $help;
 		}
 
 		$params = array(
